@@ -10,7 +10,7 @@ The collection is continuously expanding and I am open for any suggestions of ne
 
 ## LilyPond
 
-Each piece is included as its own LilyPond file (*.ly*). To compile the full book, run the *Alto-Recorder-Christmas-Music-Book.ly* file (one way is to click on the lilypad icon in Frescobaldi).
+Each piece is included as its own LilyPond file (*.ly* files in the *Individual-Scores* folder). To compile the full book, run the *Alto-Recorder-Christmas-Music-Book.ly* file (one way is to click on the lilypad icon in Frescobaldi).
 
 P.S. If you are not already using it, I highly suggest using [Frescobaldi](https://www.frescobaldi.org), a free, interactive editor for LilyPond! It provides you with sheet music previews, a MIDI player so you can hear your score, and coding tools like error checking and a transposing tool.
 
