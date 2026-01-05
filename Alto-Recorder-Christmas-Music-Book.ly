@@ -73,7 +73,7 @@
 \include "Individual-Scores/In-the-Bleak-Midwinter.ly"
 
 
-
+\book {
   
   \header {
     title =  \markup { \vspace #13 \abs-fontsize #50 \italic "Christmas Music"}
@@ -621,7 +621,7 @@
       
    }
 
-
+}
 
 
 
